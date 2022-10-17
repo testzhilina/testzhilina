@@ -15,7 +15,5 @@
 ![Python](https://img.shields.io/badge/Python-FFE87C?style=for-the-badge&logo=python)
 
 
-
-
-
-Follow me
+## Follow Me
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-zhilina-564138252/)
