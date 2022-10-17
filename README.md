@@ -1,4 +1,4 @@
-![Header](https://github.com/testzhilina/testzhilina/blob/main/assets/Minimalist.png)
+![Header](https://github.com/testzhilina/testzhilina/blob/main/assets/logo.png)
 
 ## I'm Quality Assurance Engineer (both Automation + Manual). Experienced in Requirement gathering and analysis, Designing and Executing test scenarios, Test cases, Bug Reports. Familiar with all Phases of Software Development Life Cycle. Passionate about working in team and helping people.
 
