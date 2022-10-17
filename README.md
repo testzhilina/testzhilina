@@ -2,7 +2,7 @@
 
 ## I'm Quality Assurance Engineer (Automation + Manual). 
 
-Experienced in Requirement gathering and analysis, Designing and Executing test scenarios, Test cases, Bug Reports, writing Test Scriots(Python). Familiar with all Phases of Software Development Life Cycle. Passionate about working in team and helping people.
+Experienced in Requirement gathering and analysis, Designing and Executing test scenarios, Test cases, Bug Reports, writing Test Scripts(Python). Familiar with all Phases of Software Development Life Cycle. Passionate about working in team and helping people.
 
 ## My CV
 
