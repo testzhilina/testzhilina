@@ -5,7 +5,7 @@
 Experienced in Requirement gathering and analysis, Designing and Executing test scenarios, Test cases, Bug Reports, writing Test Scripts(Python). Familiar with all Phases of Software Development Life Cycle. Passionate about working in team and helping people.
 
 ## My CV
-[Link to CV](https://drive.google.com/file/d/1_vKDUwRg1h5JqoYPhu5CTtO02I8yHRj0/view?usp=sharing)
+[Link to CV](https://drive.google.com/file/d/1hoCKnWjT9LI3ZIQhA5BdKMAEwqoDI2Wt/view?usp=share_link)
 
 
 ## Tools
