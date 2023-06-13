@@ -1,6 +1,6 @@
 ![Header](https://github.com/testzhilina/testzhilina/blob/main/assets/logo.png)
 
-## I'm Quality Assurance Engineer (Automation + Manual). 
+## I'm Quality Assurance Engineer (Manual). 
 
 Experienced in Requirement gathering and analysis, Designing and Executing test scenarios, Test cases, Bug Reports, writing Test Scripts(Python). Familiar with all Phases of Software Development Life Cycle. Passionate about working in team and helping people.
 
@@ -22,6 +22,3 @@ Experienced in Requirement gathering and analysis, Designing and Executing test 
 ![Python](https://img.shields.io/badge/Python-3A3B3C?style=for-the-badge&logo=python)
 
 ## Testing Documentation
-
-## Follow Me
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-zhilina-564138252/)
